@@ -1,0 +1,1 @@
+For target model bert: original accuracy: 99.741%, adv accuracy: 34.041%, avg changed rate: 23.056%, num of queries: 95.5
