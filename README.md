@@ -1,1 +1,2 @@
-The code repository corresponds to the paper \textit{Discrete Multi-head Training with Rule-based Perturbation Location for Accurate Text Defense}. Most of the code has been organized, while only a small part remains unprocessed.
+This repository contains the source code for the paper Discrete Multi-head Training with Rule-based Perturbation Location for Accurate Text Defense.
+Most of the code has been organized, and only a small portion remains unorganized.
